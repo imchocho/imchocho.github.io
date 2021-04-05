@@ -509,7 +509,7 @@ pre {
 }
 pre,
 code {
-  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+  font-family: PingFang SC, consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
 }
 code {
   border-radius: 3px;
@@ -2717,7 +2717,7 @@ mjx-container[display="true"] + br {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #c61be3;
+  background: #ff79ba;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
